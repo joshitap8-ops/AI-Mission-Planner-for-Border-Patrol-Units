@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Aegis Tactical: AI Mission Planner",
+  "description": "A futuristic AI-powered mission planning dashboard for defense operations, featuring real-time tactical analysis and interactive geospatial visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Mission Planning",
+    "Tactical Visualization",
+    "Real-time Geolocation"
+  ]
+}
